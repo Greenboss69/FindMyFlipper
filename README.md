@@ -17,7 +17,8 @@ This app extends the functionality of the FlipperZero's bluetooth capabilities, 
 - All firmware should now work with main branch, including icons
   
 ### Step 2: Obtaining SmartTag Data
-###### There are 2 methods to get SmartTag data depending on the type of tag you wish to emulate. Option A allows you to use Apple, Samsung, and Tile tags through the use of cloning the MAC Address and Payload of an actual tag. This also allows you to use the native app for tracking (Apple FindMy, Samsung SmartThing, Tile App). Option B allows you to emulate an Apple AirTag without needing to own an Apple device or airtag. This is done through key generation and requires a computer to download the location data.
+###### There are 2 methods to get SmartTag data depending on the type of tag you wish to emulate. Option A allows you to use Apple, Samsung, and Tile tags through the use of cloning the MAC Address and Payload of an actual tag. This also allows you to use the native app for tracking (Apple FindMy, Samsung SmartThing, Tile App). Option B allows you to emulate an Apple AirTag without needing to own an Apple device or airtag. This is done through k
+ey generation and requires a computer to download the location data.
 
 <details>
   <summary><b>Option A: Cloning Existing Tag (Preferred and allows you to track without additional setup)</b></summary>
